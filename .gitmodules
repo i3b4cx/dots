@@ -1,3 +1,6 @@
 [submodule "nvim"]
 	path = nvim
-	url = https://github.com/i3b4cx/nvim
+    url = https://github.com/i3b4cx/nvim
+[submodule "wallpapers"]
+	path = wallpapers
+	url = https://github.com/i3b4cx/wallpapers
