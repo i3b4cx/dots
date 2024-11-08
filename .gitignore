@@ -1,0 +1,2 @@
+# ignore .DS_Store file for cross platform support
+.DS_Store
